@@ -1,5 +1,5 @@
 .btn {
-  font-size: 14px;
+  font-size: 13px;
   text-decoration: none;
   cursor: pointer;
   display: block;
@@ -8,10 +8,11 @@
   margin: 20px auto;
   text-align: center;
   padding: 1px 5px;
-  color: #022524;
+  color: #0611a8;
+  border-radius: 3px;
 }
 
 .btn:active {
-  background: #83b2f3;
+  background: #f6fa04;
   color: #000;
 }
